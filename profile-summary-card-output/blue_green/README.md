@@ -35,6 +35,16 @@
 
 ---
 
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Ken-Sumi1019/Ken-Sumi1019/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)
+```
+
+    
+
+---
+
 ![](./3-stats.svg)
 
 ```
