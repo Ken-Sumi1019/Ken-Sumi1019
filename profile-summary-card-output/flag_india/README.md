@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/Ken-Sumi1019/Ken-Sumi1019/main/profile-summary-card-output/flag_india/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Ken-Sumi1019/Ken-Sumi1019/main/profile-summary-card-output/flag_india/4-productive-time.svg)
+```
+
+    
